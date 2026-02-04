@@ -1,0 +1,7 @@
+lab3 reflection
+In Lab 3, I built a calculator application by organizing the UI with nested LinearLayouts 
+and layout weights.
+I learned to implement the View.OnClickListener interface
+to handle multiple button events efficiently in a single method. 
+This experience deepened my understanding of Android
+UI composition and event handling.

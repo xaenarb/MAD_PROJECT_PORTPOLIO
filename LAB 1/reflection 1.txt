@@ -1,0 +1,7 @@
+reflection 1
+In this lab I created a simple greeting application to learn
+ how to make an Android UI interactive.
+ I learned how to use findViewById to link XML objects to 
+Java and used OnClickListener to respond to button clicks. 
+I learned how to read the user's input from an EditText and 
+display a customized Toast message in response.

@@ -1,0 +1,6 @@
+lab2 reflection
+
+In Lab 2, I explored Android UI design by constructing a login interface using a LinearLayout to stack an ImageView, EditText fields, and a Button.
+ I learned how to configure specific XML attributes for different input types and gained practical experience linking these UI components to the backend 
+Java logic using findViewById. This lab reinforced my understanding of how 
+to handle user interaction and initialize views programmatically.
