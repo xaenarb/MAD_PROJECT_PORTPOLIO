@@ -1,0 +1,8 @@
+
+lab5 reflectio
+
+In Lab 5, I built a multi-screen app using Intents to navigate between 
+a login page and the main activity. 
+I also implemented a DatePickerDialog for date inputs, 
+which improved my understanding of connecting 
+different activities and managing the Android app lifecycle.

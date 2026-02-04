@@ -1,0 +1,6 @@
+lab4 reflectuon
+
+In Lab 4, I learned how to build a precise user interface using ConstraintLayout
+ and Guidelines to align input fields for book details like title and price. I also practiced Object-Oriented Programming by
+ creating a Book model class with constructors, getters,
+ and setters to structure the data within my Android application.
